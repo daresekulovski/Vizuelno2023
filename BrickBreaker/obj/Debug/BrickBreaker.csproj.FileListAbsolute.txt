@@ -1,0 +1,11 @@
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Form1.resources
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\Darko\Desktop\Vizuelno Programiranje\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
